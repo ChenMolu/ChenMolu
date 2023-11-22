@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rocky
+# Hi 👋 I'm Rocky
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ChenMolu&&style=flat-square)  
 
